@@ -1,17 +1,17 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "Flexoki Dark",
+    "name": "github-branm324-phcode-theme-flexoki-dark",
+    "description": "An inky dark theme for Phoenix Code, based on Flexoki by Steph Ango.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Bran (https://github.com/branm324)",
+    "homepage": "https://github.com/branm324/phcode-theme-flexoki-dark",
     "engines": {
         "brackets": ">=2.0.0"
     },
-    "categories": "demo",
+    "categories": "theme",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "flexoki", "dark-theme"
     ],
     "theme": {
         "file": "my-theme.less",
